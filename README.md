@@ -27,6 +27,11 @@ Welcome to **Anuj's Maze Game**, a simple terminal-based maze adventure where yo
 - `#` are walls, `*` are collectibles, and `E` is the exit.
 - The maze is a 10x10 grid.
 
+🏆 Scoring System
+Each * collected gives 10 points.
 
+Finishing a level adds a bonus of 50 points.
+
+Display your score after every level and at game over.
 
 
